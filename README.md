@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Automated Emails
 
-Projeto base para iniciar qualquer projeto Python.
+O aplicativo lê os nomes, e-mails e endereços de uma arquivo Excel e envia um e-mail a cada usuário
 
 ## Instalar dependências
 
